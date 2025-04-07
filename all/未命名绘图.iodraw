@@ -17,7 +17,7 @@
             <mxPoint x="450" y="290" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="3veIPPN4d77uPiEXDlqv-2" value="分析底层机制，确定需要测量的参数" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="3veIPPN4d77uPiEXDlqv-2" value="确定需要测量的参数" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="300" y="260" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
