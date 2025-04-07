@@ -44,6 +44,9 @@
         <mxCell id="3veIPPN4d77uPiEXDlqv-11" value="根据理论分析得到的公式为程序选择合适的MIPIIO参数" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="310" y="320" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="3veIPPN4d77uPiEXDlqv-14" value="结束" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="190" width="120" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
