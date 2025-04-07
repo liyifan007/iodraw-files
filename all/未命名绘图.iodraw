@@ -24,11 +24,20 @@
         <mxCell id="3veIPPN4d77uPiEXDlqv-5" value="在给定平台上测量所有所需参数" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="320" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="3veIPPN4d77uPiEXDlqv-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="3veIPPN4d77uPiEXDlqv-8" target="3veIPPN4d77uPiEXDlqv-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="3veIPPN4d77uPiEXDlqv-8" value="筛选出主要影响并行IO性能的MPIIO参数" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="410" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="3veIPPN4d77uPiEXDlqv-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="3veIPPN4d77uPiEXDlqv-9" target="3veIPPN4d77uPiEXDlqv-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="3veIPPN4d77uPiEXDlqv-9" value="通过一次运行或分析得到程序静态IO特征" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="310" y="410" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3veIPPN4d77uPiEXDlqv-11" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="320" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
