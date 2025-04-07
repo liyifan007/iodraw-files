@@ -24,6 +24,9 @@
         <mxCell id="3veIPPN4d77uPiEXDlqv-5" value="在给定平台上测量所有所需参数" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="100" y="480" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="3veIPPN4d77uPiEXDlqv-8" value="筛选出主要影响并行IO性能的MPIIO参数" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="570" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
