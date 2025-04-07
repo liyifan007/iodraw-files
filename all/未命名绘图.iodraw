@@ -22,12 +22,6 @@
             <mxPoint x="180" y="380" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="3veIPPN4d77uPiEXDlqv-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="240" y="440" as="sourcePoint" />
-            <mxPoint x="310" y="440" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="3veIPPN4d77uPiEXDlqv-18" value="开始" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="110" width="120" height="60" as="geometry" />
         </mxCell>
@@ -44,16 +38,16 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="3veIPPN4d77uPiEXDlqv-22" value="通过一次运行或分析得到程序静态IO特征" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="300" y="410" width="120" height="60" as="geometry" />
+          <mxGeometry x="290" y="410" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3veIPPN4d77uPiEXDlqv-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="3veIPPN4d77uPiEXDlqv-23" target="3veIPPN4d77uPiEXDlqv-25">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="3veIPPN4d77uPiEXDlqv-23" value="根据理论分析得到的公式为程序选择合适的MIPIIO参数" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="470" y="410" width="120" height="60" as="geometry" />
+          <mxGeometry x="460" y="410" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3veIPPN4d77uPiEXDlqv-25" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="630" y="410" width="120" height="60" as="geometry" />
+          <mxGeometry x="620" y="410" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
