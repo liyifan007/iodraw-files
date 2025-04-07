@@ -10,12 +10,6 @@
             <mxPoint x="180" y="210" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="3veIPPN4d77uPiEXDlqv-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="180" y="270" as="sourcePoint" />
-            <mxPoint x="180" y="320" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="3veIPPN4d77uPiEXDlqv-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="180" y="410" as="targetPoint" />
@@ -25,11 +19,11 @@
         <mxCell id="3veIPPN4d77uPiEXDlqv-18" value="开始" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="110" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="3veIPPN4d77uPiEXDlqv-19" value="确定需要测量的参数" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="120" y="210" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="3veIPPN4d77uPiEXDlqv-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3veIPPN4d77uPiEXDlqv-20" target="3veIPPN4d77uPiEXDlqv-19">
+        <mxCell id="3veIPPN4d77uPiEXDlqv-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3veIPPN4d77uPiEXDlqv-19" target="3veIPPN4d77uPiEXDlqv-18">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3veIPPN4d77uPiEXDlqv-19" value="确定需要测量的参数" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="230" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3veIPPN4d77uPiEXDlqv-20" value="在给定平台上测量所有所需参数" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="320" width="120" height="60" as="geometry" />
