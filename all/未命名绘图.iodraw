@@ -35,13 +35,13 @@
           <mxGeometry x="120" y="410" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3veIPPN4d77uPiEXDlqv-22" value="通过一次运行或分析得到程序静态IO特征" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="290" y="410" width="120" height="60" as="geometry" />
+          <mxGeometry x="120" y="510" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3veIPPN4d77uPiEXDlqv-23" value="根据理论分析得到的公式为程序选择合适的MIPIIO参数" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="460" y="410" width="120" height="60" as="geometry" />
+          <mxGeometry x="120" y="600" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3veIPPN4d77uPiEXDlqv-25" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="620" y="410" width="120" height="60" as="geometry" />
+          <mxGeometry x="120" y="690" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
