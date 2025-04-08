@@ -22,7 +22,7 @@
         <mxCell id="3veIPPN4d77uPiEXDlqv-19" value="确定需要测量的参数" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="120" y="230" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="3veIPPN4d77uPiEXDlqv-20" value="（1）测量单个进程带宽随着ost数量增多趋于稳定时ost的数量" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="3veIPPN4d77uPiEXDlqv-20" value="在给定平台上测量所有所需参数" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="120" y="320" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3veIPPN4d77uPiEXDlqv-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="3veIPPN4d77uPiEXDlqv-21" target="3veIPPN4d77uPiEXDlqv-22" edge="1">
