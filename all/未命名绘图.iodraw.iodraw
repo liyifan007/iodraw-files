@@ -4,64 +4,8 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="bKn4e1KjzEYyNZIPY5lL-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="bKn4e1KjzEYyNZIPY5lL-20" target="bKn4e1KjzEYyNZIPY5lL-22">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="250" y="280" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="bKn4e1KjzEYyNZIPY5lL-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="bKn4e1KjzEYyNZIPY5lL-20" target="bKn4e1KjzEYyNZIPY5lL-23">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="bKn4e1KjzEYyNZIPY5lL-20" value="性能模型模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="100" y="360" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="bKn4e1KjzEYyNZIPY5lL-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="bKn4e1KjzEYyNZIPY5lL-22" target="bKn4e1KjzEYyNZIPY5lL-25">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="bKn4e1KjzEYyNZIPY5lL-22" value="dataset模块" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="250" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="bKn4e1KjzEYyNZIPY5lL-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="bKn4e1KjzEYyNZIPY5lL-23" target="bKn4e1KjzEYyNZIPY5lL-27">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="bKn4e1KjzEYyNZIPY5lL-23" value="model模块" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="450" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="bKn4e1KjzEYyNZIPY5lL-25" value="HPC-IO-Modeling" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="450" y="240" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="bKn4e1KjzEYyNZIPY5lL-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="bKn4e1KjzEYyNZIPY5lL-27" target="bKn4e1KjzEYyNZIPY5lL-35">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="bKn4e1KjzEYyNZIPY5lL-27" value="机器学习算法" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="450" y="440" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="bKn4e1KjzEYyNZIPY5lL-29" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="570" y="280" as="sourcePoint" />
-            <mxPoint x="630" y="280" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="bKn4e1KjzEYyNZIPY5lL-30" value=".csv文件" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="630" y="240" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="bKn4e1KjzEYyNZIPY5lL-35" value=".png" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="650" y="390" width="80" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="bKn4e1KjzEYyNZIPY5lL-36" value=".keras" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="650" y="505" width="80" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="bKn4e1KjzEYyNZIPY5lL-42" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="610" y="550" as="sourcePoint" />
-            <mxPoint x="610" y="480" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="bKn4e1KjzEYyNZIPY5lL-43" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="610" y="550" as="sourcePoint" />
-            <mxPoint x="650" y="550" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
