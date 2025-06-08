@@ -7,7 +7,7 @@
         <mxCell id="bKn4e1KjzEYyNZIPY5lL-20" value="性能模型模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="230" y="370" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="bKn4e1KjzEYyNZIPY5lL-45" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="bKn4e1KjzEYyNZIPY5lL-45" value=".keras" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="60" y="370" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
