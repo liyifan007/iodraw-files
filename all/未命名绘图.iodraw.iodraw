@@ -22,11 +22,8 @@
         <mxCell id="bKn4e1KjzEYyNZIPY5lL-67" value="将数据记录于" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="430" y="280" width="76" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="bKn4e1KjzEYyNZIPY5lL-69" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="bKn4e1KjzEYyNZIPY5lL-71" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="530" y="400" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="bKn4e1KjzEYyNZIPY5lL-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=-0.057;entryY=0.262;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="bKn4e1KjzEYyNZIPY5lL-62" target="bKn4e1KjzEYyNZIPY5lL-69">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
