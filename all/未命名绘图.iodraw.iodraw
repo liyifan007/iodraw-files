@@ -30,6 +30,9 @@
         <mxCell id="bKn4e1KjzEYyNZIPY5lL-25" value="HPC-IO-Modeling" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="450" y="240" width="120" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="bKn4e1KjzEYyNZIPY5lL-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="bKn4e1KjzEYyNZIPY5lL-27" target="bKn4e1KjzEYyNZIPY5lL-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="bKn4e1KjzEYyNZIPY5lL-27" value="机器学习算法" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="450" y="440" width="120" height="80" as="geometry" />
         </mxCell>
