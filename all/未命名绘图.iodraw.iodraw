@@ -45,7 +45,7 @@
         <mxCell id="bKn4e1KjzEYyNZIPY5lL-35" value=".png" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="650" y="390" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="bKn4e1KjzEYyNZIPY5lL-36" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="bKn4e1KjzEYyNZIPY5lL-36" value="." style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="650" y="505" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
