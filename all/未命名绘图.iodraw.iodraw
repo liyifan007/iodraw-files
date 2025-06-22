@@ -40,6 +40,9 @@
         <mxCell id="DAw8acXRsUmES2LKH4V0-12" value="输入" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="120" y="280" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="DAw8acXRsUmES2LKH4V0-13" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
